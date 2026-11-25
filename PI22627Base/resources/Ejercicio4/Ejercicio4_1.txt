@@ -1,0 +1,9 @@
+#VERTEX#
+Sevilla,2p
+Córdoba,2p
+Cádiz,1p
+Málaga,2p
+#EDGE#
+Sevilla,Córdoba,25euros,120min
+Sevilla,Cádiz,18euros,105min
+Córdoba,Málaga,24euros,150min

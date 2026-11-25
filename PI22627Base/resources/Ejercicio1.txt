@@ -1,0 +1,8 @@
+a(b,c)
+x
+a(b(a,d),c(a,e))
+a(b(a,c),b(a,d))
+a(b(c,d),e(f,g))
+r(a(d(a(r,s),b),c),e)
+a(b(b(a,c),d),e)
+a(b(a(c(a,d),e),f),g)

@@ -1,0 +1,14 @@
+#VERTEX#
+1,Antonio,1950,Sevilla
+2,Carmen,1950,Sevilla
+3,Javier,1975,Córdoba
+4,Elena,1975,Córdoba
+5,Lucía,2000,Cádiz
+6,Pablo,2003,Málaga
+#EDGE#
+1,3
+2,3
+3,5
+4,5
+3,6
+4,6
